@@ -8,6 +8,9 @@ This project uses a Convolutional Neural Network (CNN) to classify histopatholog
 - Grad-CAM heatmaps for explainability  
 - Easy prediction on custom images
 
+# Dataset 
+https://drive.google.com/drive/folders/14g08diXf2nf3y9IV90zSyE9-Z-Z7P80z?usp=sharing
+
 ## 🗂️ Dataset Structure
 histopathology/  
 ├── cancer/  
@@ -28,3 +31,4 @@ python gradcam.py       → Generate heatmaps
 **Dev Tyagi** — B.Tech EE, DTU  
 GitHub: *[your-username]*  
 Email: *your-email@example.com*
+
