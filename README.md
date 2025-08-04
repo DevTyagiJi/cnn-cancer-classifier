@@ -18,9 +18,7 @@ histopathology/
 
 ##  How to Use
 pip install -r requirements.txt  
-python train.py         → Train the model  
-python predict.py       → Predict a new image  
-python gradcam.py       → Generate heatmaps
+python cnn_scirpt.py
 
 ## Future Scope
 - Deploy as a web app  
@@ -29,6 +27,6 @@ python gradcam.py       → Generate heatmaps
 
 ## Author
 **Dev Tyagi** — B.Tech EE, DTU  
-GitHub: *[your-username]*  
-Email: *your-email@example.com*
+GitHub: DevTyagiJi 
+Email: dev432575@gmail.com
 
